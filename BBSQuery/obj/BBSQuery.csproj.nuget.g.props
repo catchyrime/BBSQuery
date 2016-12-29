@@ -5,5 +5,6 @@
   </PropertyGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <Import Project="$(NuGetPackageRoot)microsoft.diasymreader.native\1.4.0\build\Microsoft.DiaSymReader.Native.props" Condition="Exists('$(NuGetPackageRoot)microsoft.diasymreader.native\1.4.0\build\Microsoft.DiaSymReader.Native.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.net.sdk\1.0.0-alpha-20161104-2\build\Microsoft.NET.Sdk.props" Condition="Exists('$(NuGetPackageRoot)microsoft.net.sdk\1.0.0-alpha-20161104-2\build\Microsoft.NET.Sdk.props')" />
   </ImportGroup>
 </Project>

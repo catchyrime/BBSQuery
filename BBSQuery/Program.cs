@@ -1,9 +1,13 @@
 using System;
+using System.Diagnostics;
 
-class Program
+namespace BBSQuery
 {
-    static void Main(string[] args)
+    public static class Program
     {
-        Console.WriteLine("Hello World!");
+        public static void Main(string[] args)
+        {
+            return;
+        }
     }
 }
