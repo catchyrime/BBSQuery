@@ -1,0 +1,11 @@
+C:\Users\Charlie\Desktop\BBSQuery\BBSQuery\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Charlie\Desktop\BBSQuery\BBSQuery\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Charlie\Desktop\BBSQuery\BBSQuery\bin\Debug\netcoreapp1.1\BBSQuery.deps.json
+C:\Users\Charlie\Desktop\BBSQuery\BBSQuery\bin\Debug\netcoreapp1.1\BBSQuery.runtimeconfig.json
+C:\Users\Charlie\Desktop\BBSQuery\BBSQuery\bin\Debug\netcoreapp1.1\BBSQuery.runtimeconfig.dev.json
+C:\Users\Charlie\Desktop\BBSQuery\BBSQuery\bin\Debug\netcoreapp1.1\BBSQuery.dll
+C:\Users\Charlie\Desktop\BBSQuery\BBSQuery\bin\Debug\netcoreapp1.1\BBSQuery.pdb
+C:\Users\Charlie\Desktop\BBSQuery\BBSQuery\obj\Debug\netcoreapp1.1\BBSQuery.AssemblyInfo.cs
+C:\Users\Charlie\Desktop\BBSQuery\BBSQuery\obj\Debug\netcoreapp1.1\BBSQuery.dll
+C:\Users\Charlie\Desktop\BBSQuery\BBSQuery\obj\Debug\netcoreapp1.1\BBSQuery.pdb
+C:\Users\Charlie\Desktop\BBSQuery\BBSQuery\obj\Debug\netcoreapp1.1\BBSQuery.csprojResolveAssemblyReference.cache
